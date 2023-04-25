@@ -1,0 +1,5 @@
+name,cardnum,sortcode,accountnum,cvv,validfrom,validend,username,password,balance
+Jane Doe,5323649823901234,98-76-54,87654321,456,03/23,03/26,janedoe,pa$$w0rd,10.0
+Bob Johnson,4311525876442019,65-43-21,13579086,789,01/21,01/24,bobjohnson,MyP@ssword,49.0
+Alice Brown,4024007172198816,87-65-43,98765432,321,04/24,04/27,alicebrown,Secret123,18.0
+admin,6392 0093 4211 2668,43-03-00,58950119,3,4/2023,4/2028,admin,admin,9999999995.0
