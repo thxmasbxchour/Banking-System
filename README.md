@@ -3,7 +3,7 @@ This is a Banking System I built in python after I learnt about Object Oriented 
 
 #  Features
 
-#• Registering new users to CSV file 
+#  Registering new users to CSV file 
 #• Login with current users in CSV file
 #• Registration giving people: Sort Code, Account Number, CVV, Card Number, Valid From, Valid End, Name
 #• Input validation on nearly all input questions
