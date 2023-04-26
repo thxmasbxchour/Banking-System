@@ -2,7 +2,7 @@
 This is a Banking System I built in python after I learnt about Object Oriented Programming (OOP) for the first time. I used this project to teach me more about OOP and spent a few days perfecting it. Hope you enjoy!
 
 #  Features
-• Registering new users to CSV file
+• Registering new users to CSV file \n 
 • Login with current users in CSV file
 • Registration giving people: Sort Code, Account Number, CVV, Card Number, Valid From, Valid End, Name
 • Input validation on nearly all input questions
